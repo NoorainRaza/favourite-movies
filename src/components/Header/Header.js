@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-// useHistory instead of Link 
+
 const Header = () => {
     return (
         <div>
